@@ -12,7 +12,7 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
-### Infromation provided
+### Information provided
 The informations provided in the final code are:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
@@ -36,3 +36,4 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 #5 Provide the option to view 5 rows of raw data
 provide options for data viewing
+provide options to keep viewing data
