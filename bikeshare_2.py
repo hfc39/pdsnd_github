@@ -164,7 +164,7 @@ def user_stats(df):
         gender_type = df['Gender'].value_counts()
         print('Gender types counts:',len(gender_type.index))
     else:
-        print('Gender is not included in the data.')
+        print('Gender is not included in the data of {}.'.format.city)
 
     # Display earliest, most recent, and most common year of birth
     if 'Birth Year' in df.columns:
