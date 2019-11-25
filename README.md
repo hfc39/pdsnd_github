@@ -1,15 +1,16 @@
-### Date created
+### Date created: 2019-Nov-25
 Include the date you created this project and README file.
 
-### Project Title
+### Udacity bikeshare data analysis project with Python
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Using python and pandas package to analysis the bikeshare data provided by Udacity, and write interactive code to get user's request on data selection.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+n/a
